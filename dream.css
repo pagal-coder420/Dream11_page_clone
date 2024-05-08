@@ -1,0 +1,382 @@
+.vishal {
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    height: 60px;
+    margin-top: -7px;
+    margin-left: -7px;
+}
+
+.main {
+    margin-top: -38px;
+    margin-left: 64px;
+}
+.time {
+    margin-top: -17px;
+    margin-left: 2px;
+    font-size: small;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.match {
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.bell {
+    margin-left: 15rem;
+    margin-top: -27px;
+}
+.ball {
+    margin-left: 12rem;
+    margin-top: -45px;
+}
+.bap {
+    background-color: #484848;
+    display: flex;
+    height: 40px;
+    width: 110px;
+    margin-left: 18rem;
+    margin-top: -38px;
+    border-radius: 100px;
+}
+.balance {
+    color: #fff;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.rupees {
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 3px;
+    font-size: small;
+    scale: 80%;
+}
+.jama {
+    color: #fff;
+    font-size: larger;
+    margin-top: -14px;
+    margin-left: -4px;
+}
+.plus
+{
+    color: #fff;
+    margin-top: 8px;
+    margin-left: 5px;
+    background-color: rgb(10, 215, 10);
+    height: 22px;
+    width: 23px;
+    border-radius: 30px;
+
+}
+.colon {
+    display: flex;
+    margin-left: -3px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+color: #232323;
+background-color: #ffffff19;
+}
+.my {
+    margin-left: 35px;
+}
+.team {
+    margin-left: 35px;
+}
+.Guide {
+    margin-left: 35px;
+}
+.hress {
+    margin-top: -11px;
+    box-shadow: 0px 0px 0.5px ;
+}
+.contests {
+    color: red;
+    text-decoration: underline;
+}
+.pagal {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #696868;
+    background-color: #ffffff19;
+    margin-top: -10px;
+}
+.entry {
+    margin-left: 35.5px;
+}
+.spot {
+    margin-left: 35.5px;
+}
+.prize {
+    margin-left: 35.5px;
+}
+.win {
+    margin-left: 35.5px;
+    opacity: 1;
+}
+.fig {
+    margin-left: 35.5px;
+    font-size: large;
+    margin-top: 15px;
+}
+.pran {
+    box-shadow: 2px 2px 10px;
+}
+.create {
+    background-color: rgba(0, 191, 255, 0.152);
+    height: 35px;
+    width: 400px;
+    padding: 2px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.friends {
+    margin-top: 8px;
+    margin-left: 9px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.cover {
+    background-color: #ebf0ecfa;
+    height: 38px;
+    width: 150px;
+    margin-left: 251px;
+    margin-top: -28px;
+    border-radius: 10px;
+}
+.bold {
+    margin-left: 263px;
+    margin-top:   -87px;
+    padding-top: 56px;
+}
+.jan {
+    margin-left: 288px;
+    margin-top: -26px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.mega {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 13px; 
+    margin-bottom: -12px;
+}
+.sharma {
+    background-color: rgba(96, 146, 216, 0.225);
+    height: 35px;
+    width: 402px;
+    padding: 2px;
+    margin-left: 20px;
+    border-radius: 10px 10px 0 2px; 
+}
+.playing {
+    margin-top: -42.5px;
+    margin-left: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.tag {
+    margin-left: 244px;
+    margin-top: -32px;
+    font-size: x-small;
+}
+.winner {
+    background-color: rgb(244, 244, 244);
+    height: 180px;
+    width: 410px;
+    border-radius: 10px;
+    border: 2px solid #9b9b9bbc;
+    margin-left: 18px;
+}
+.pool {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -178px;
+    margin-left: 34px;
+    color: #696868; 
+}
+.fees {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -35px;
+    margin-left: 360px;
+    color: #696868; 
+}
+.amir {
+    margin-left: 27px;
+    margin-top: 8px;
+    scale: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.crore {
+    margin-left: 46px;
+    margin-top: -50px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.crush {
+    height: 30px;
+    width: 75px;
+    background-color: rgb(7, 168, 7);
+    border-radius: 4px;
+    margin-top: -50px;
+    margin-left: 333px;
+
+}
+.gareeb {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -95px;
+    margin-left: 345px;
+    color: #ffffff;
+    font-size: 99px;
+   scale: px;
+}
+.kute {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -68px;
+    margin-left: 365px;
+    color: #fff;
+    font-weight: bold;
+}
+.line {
+    height: 5px;
+    width: 380px;
+    margin-left: 30px;
+    margin-bottom: -20px; 
+}
+.mar {
+    height: 5px;
+    width: 375px;
+    background-color: rgba(249, 68, 68, 0.292);
+    border-radius: 4px;
+    margin-left: 33px;
+
+}
+.jeew {
+    height: 5px;
+    width: 150px;
+    background-color: rgb(227, 28, 28);
+    border-radius: 4px;
+    margin-left: 33px;
+    margin-top: -5px;
+
+}
+.person {
+    color: rgb(219, 18, 18);
+    margin-left: 33.5px;
+    margin-top: -9px;
+}
+.pps {
+    color: rgba(73, 70, 70, 0.901);
+    margin-left: 340px;
+    margin-top: -36px;
+}
+.pre {
+    height: 37px;
+    width: 408px;
+    background-color: #e3e3e3;
+    border-radius: 0 0 4px 4px;
+    margin-left: 21px;
+    margin-top: 24px;
+}
+.chat {
+    margin-top: -29px;
+    margin-left: 31px;
+    color: #777575;
+    display: flex;
+}
+.retry {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-small;
+    margin-top: 3px;
+}
+.paida {
+    margin-top: -12px;
+    margin-left: 2px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.tee {
+    margin-top: -38px;
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.bihar {
+    margin-left: 10px;
+}
+.percentage {
+    margin-top: -15px;
+    margin-left: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.star {
+    font-size: xx-small;
+    margin-left: 10px;
+}
+.up {
+    margin-top: -14px;
+    margin-left: 4px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.brave {
+    margin-left: 18px;
+    font-size: xx-small;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 1px;
+}
+.guraranteed {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -13px;
+    margin-left: 2px;
+}
